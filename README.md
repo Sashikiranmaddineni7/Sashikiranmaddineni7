@@ -1,19 +1,45 @@
-## Hi there 👋 I'm Sashi Kiran
+# Hi, I'm Sashi Kiran Maddineni 👋
 
-<!--
-**Sashikiranmaddineni7/Sashikiranmaddineni7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate **Data Scientist** and **Machine Learning Engineer** with a strong foundation in building predictive models, deploying algorithms, and crafting interactive visualizations. My projects focus on solving complex problems using data-driven insights and cutting-edge technologies.
 
-Here are some ideas to get you started:
+---
 
-🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+- 🎓 A Master’s Degree in Data Science at the **University of North Texas**.
+- 💻 Former **AI Intern** specializing in Large Language Models (LLMs) and Machine Learning frameworks.
+- 🛠️ Skilled in **Python**, **SQL**, **MATLAB**, and cloud technologies like **AWS** and **Azure**.
+- 🌐 Experienced in developing **retrieval-augmented generation (RAG)** frameworks and configuring **vector databases**.
+- 📊 Enthusiastic about **data visualization**, having built interactive dashboards using **Tableau**.
+
+---
+
+## 🚀 Projects
+Here are a few highlights from my work:
+- **Cryptocurrency Price Prediction**: Leveraging inequality measures like the Gini Index for enhanced prediction accuracy with machine learning.  
+- **Pandemic Data Visualization**: Created dashboards showcasing COVID-19 trends, testing efforts, and health outcomes.  
+- **AI SQL Agent**: Developed an intelligent AI-powered database query agent using LangChain, SQLite, and ReAct prompting.
+
+---
+
+## 🛠️ Tech Stack
+- **Programming Languages**: Python, SQL, MATLAB, C++
+- **Machine Learning**: Scikit-learn, TensorFlow, LangChain
+- **Data Visualization**: Tableau, Matplotlib, Seaborn
+- **Cloud Platforms**: AWS, Azure, Google Colab
+- **Databases**: SQLite, PostgreSQL
+
+---
+
+## 📫 Let's Connect!
+- **Email**: [sashikiranmaddineni@my.unt.edu](mailto:sashikiranmaddineni@my.unt.edu)
+- **LinkedIn**: [Sashi Kiran Maddineni](https://www.linkedin.com/in/sashikiranmaddineni)
+- **Tableau Public**: [Interactive Visualizations](https://public.tableau.com/app/profile/sashi.kiran.maddineni)
+
+---
+
+I’m always excited to collaborate on interesting projects and explore innovative ideas. Feel free to reach out or check out my repositories for more insights into my work. Let’s make data do the talking! 🚀
+
+
 <p>A passionate Data Scientist</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
