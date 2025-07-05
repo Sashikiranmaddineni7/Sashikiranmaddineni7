@@ -1,6 +1,6 @@
 # Hi, I'm Sashi Kiran Maddineni 👋
 
-Welcome to my GitHub profile! I'm a passionate **Data Scientist** and **Machine Learning Engineer** with a strong foundation in building predictive models, deploying algorithms, and crafting interactive visualizations. My projects focus on solving complex problems using data-driven insights and cutting-edge technologies.
+Welcome to my GitHub profile! I'm a passionate **Data Scientist** using **Machine Learning** with a strong foundation in building predictive models, deploying algorithms, and crafting interactive visualizations. My projects focus on solving complex problems using data-driven insights and cutting-edge technologies.
 
 ---
 
