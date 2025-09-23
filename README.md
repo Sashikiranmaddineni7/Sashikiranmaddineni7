@@ -1,20 +1,21 @@
 # Hi, I'm Sashi Kiran Maddineni 👋
 
-Welcome to my GitHub profile! I'm a passionate **Data Scientist** using **Machine Learning** with a strong foundation in building predictive models, deploying algorithms, and crafting interactive visualizations. My projects focus on solving complex problems using data-driven insights and cutting-edge technologies.
+Welcome to my GitHub profile! I'm a passionate **Data Scientist** using **Machine Learning** and **AI** with a strong foundation in Finetuning models, building Pipelines, deploying models and crafting interactive visualizations. My projects focus on solving complex problems using data-driven insights and cutting-edge technologies.
 
 ---
 
 ## 🌟 About Me
 - 🎓 A Master’s Degree in Data Science at the **University of North Texas**.
-- 💻 Former **AI Intern** specializing in Large Language Models (LLMs) and Machine Learning frameworks.
+- 📊 Currently working as **Machine Learning Engineer** at Vosyn with **TTS** Architecture and LLMs using **GCP**.
+- 💻 Former **AI Software Engineer Intern** specializing in Large Language Models (LLMs) and Machine Learning frameworks.
 - 🛠️ Skilled in **Python**, **SQL**, **MATLAB**, and cloud technologies like **AWS** and **Azure**.
-- 🌐 Experienced in developing **retrieval-augmented generation (RAG)** frameworks and configuring **vector databases**.
-- 📊 Enthusiastic about **data visualization**, having built interactive dashboards using **Tableau**.
+- 🌐 Experienced in building personalized **AI powered Agents** developing **retrieval-augmented generation (RAG)** frameworks and configuring **vector databases**.
 
 ---
 
 ## 🚀 Projects
 Here are a few highlights from my work:
+- **ALFA - Agentic AI Agent**: Built an Agent with LangGraph using Copilot to secure data, enable NL queries, integrate REST APIs, and enforce RBAC/guardrails.
 - **Cryptocurrency Price Prediction**: Leveraging inequality measures like the Gini Index for enhanced prediction accuracy with machine learning.  
 - **Pandemic Data Visualization**: Created dashboards showcasing COVID-19 trends, testing efforts, and health outcomes.  
 - **AI SQL Agent**: Developed an intelligent AI-powered database query agent using LangChain, SQLite, and ReAct prompting.
@@ -37,6 +38,7 @@ Here are a few highlights from my work:
 ## 📫 Let's Connect!
 - **Email**: [sashikiranmaddineni@my.unt.edu](mailto:sashikiranm7@my.unt.edu)
 - **LinkedIn**: [Sashi Kiran Maddineni](https://www.linkedin.com/in/sashikiranmaddineni)
+- **Portfolio**: [https://sashikiranmaddineni7.github.io/Sashikiranmaddineni7-sashi-portfolio/]
 ---
 
 I’m always excited to collaborate on interesting projects and explore innovative ideas. Feel free to reach out or check out my repositories for more insights into my work. Let’s make data do the talking! 🚀
