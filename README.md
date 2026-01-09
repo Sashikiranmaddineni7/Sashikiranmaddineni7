@@ -1,13 +1,13 @@
 # Hi, I'm Sashi Kiran Maddineni 👋
 
-Welcome to my GitHub profile! I'm a passionate **Data Scientist** using **Machine Learning** and **AI** with a strong foundation in Finetuning models, building Pipelines, deploying models and crafting interactive visualizations. My projects focus on solving complex problems using data-driven insights and cutting-edge technologies.
+Welcome to my GitHub profile! I'm a passionate **Data Scientist** using **Machine Learning** and **AI** with a strong foundation in Fine tuning models, building Pipelines, deploying models and crafting interactive visualizations. My projects focus on solving complex problems using data-driven insights and cutting-edge technologies.
 
 ---
 
 ## 🌟 About Me
 - 🎓 A Master’s Degree in Data Science at the **University of North Texas**.
 - 📊 Currently working as **Machine Learning Engineer** at Vosyn with **TTS** Architecture and LLMs using **GCP**.
-- 💻 Former **AI Software Engineer Intern** specializing in Large Language Models (LLMs) and Machine Learning frameworks.
+- 💻 Former **AI Software Engineer Intern** specializing in RAG based AI agents and Machine Learning frameworks.
 - 🛠️ Skilled in **Python**, **SQL**, **MATLAB**, and cloud technologies like **AWS** and **Azure**.
 - 🌐 Experienced in building personalized **AI powered Agents** developing **retrieval-augmented generation (RAG)** frameworks and configuring **vector databases**.
 
